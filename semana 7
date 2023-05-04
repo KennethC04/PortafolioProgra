@@ -1,0 +1,48 @@
+semana 7 
+
+using System;
+class tareaindividuals7{
+static void Main(){
+int count = 0;
+int sum = 0;
+int num;
+Console.WriteLine("Ingresa un numero > 0:");
+while (count < 10)
+{
+Console.Write("Ingresa un numero: ");
+if (int.TryParse(Console.ReadLine(), out num) && num > 0)
+{
+count++;
+sum += num;
+}
+else
+{
+Console.WriteLine("Entrada inválida. Por favor, introduzca un númeromayor que 0.");
+}
+}
+double average = (double)sum / count;
+Console.WriteLine("El promedio de los 10 números es: " + average);
+Console.WriteLine("Los 10 numeros primos son:");
+int primeCount = 0;
+int primeNum = 2;
+while (primeCount < 10)
+{
+bool isPrime = true;
+for (int i = 2; i <= Math.Sqrt(primeNum); i++)
+{
+if (primeNum % i == 0)
+{
+isPrime = false;
+break;
+}
+}
+if (isPrime)
+{
+Console.WriteLine(primeNum);
+primeCount++;
+}
+primeNum++;
+}
+}
+}
+// Ejercicio Individual de Kenneth Castillo
