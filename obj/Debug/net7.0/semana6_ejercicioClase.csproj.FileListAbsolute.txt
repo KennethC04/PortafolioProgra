@@ -1,0 +1,15 @@
+C:\Users\kenne\source\repos\semana6_ejercicioClase\obj\Debug\net7.0\semana6_ejercicioClase.csproj.AssemblyReference.cache
+C:\Users\kenne\source\repos\semana6_ejercicioClase\obj\Debug\net7.0\semana6_ejercicioClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenne\source\repos\semana6_ejercicioClase\obj\Debug\net7.0\semana6_ejercicioClase.AssemblyInfoInputs.cache
+C:\Users\kenne\source\repos\semana6_ejercicioClase\obj\Debug\net7.0\semana6_ejercicioClase.AssemblyInfo.cs
+C:\Users\kenne\source\repos\semana6_ejercicioClase\obj\Debug\net7.0\semana6_ejercicioClase.csproj.CoreCompileInputs.cache
+C:\Users\kenne\source\repos\semana6_ejercicioClase\bin\Debug\net7.0\semana6_ejercicioClase.exe
+C:\Users\kenne\source\repos\semana6_ejercicioClase\bin\Debug\net7.0\semana6_ejercicioClase.deps.json
+C:\Users\kenne\source\repos\semana6_ejercicioClase\bin\Debug\net7.0\semana6_ejercicioClase.runtimeconfig.json
+C:\Users\kenne\source\repos\semana6_ejercicioClase\bin\Debug\net7.0\semana6_ejercicioClase.dll
+C:\Users\kenne\source\repos\semana6_ejercicioClase\bin\Debug\net7.0\semana6_ejercicioClase.pdb
+C:\Users\kenne\source\repos\semana6_ejercicioClase\obj\Debug\net7.0\semana6_ejercicioClase.dll
+C:\Users\kenne\source\repos\semana6_ejercicioClase\obj\Debug\net7.0\refint\semana6_ejercicioClase.dll
+C:\Users\kenne\source\repos\semana6_ejercicioClase\obj\Debug\net7.0\semana6_ejercicioClase.pdb
+C:\Users\kenne\source\repos\semana6_ejercicioClase\obj\Debug\net7.0\semana6_ejercicioClase.genruntimeconfig.cache
+C:\Users\kenne\source\repos\semana6_ejercicioClase\obj\Debug\net7.0\ref\semana6_ejercicioClase.dll
